@@ -1,0 +1,226 @@
+{
+  "emberek": [
+    {
+      "nev": "Kovács Péter",
+      "nem": "férfi",
+      "szul": "1985-05-10",
+      "anyjaNeve": "Nagy Mária",
+      "hazastars": "Kovács Katalin",
+      "gyerek": ["Kovács Anna", "Kovács Gergő"],
+      "haziallatFajta": "macska",
+      "haziallatNeve": "Cirmi",
+      "idSzam": "111223344"
+    },
+    {
+      "nev": "Tóth Edit",
+      "nem": "nő",
+      "szul": "1990-02-15",
+      "anyjaNeve": "Kis Judit",
+      "hazastars": "Tóth Gábor",
+      "gyerek": ["Tóth Bence", "Tóth Dóra"],
+      "haziallatFajta": "kutya",
+      "haziallatNeve": "Rex",
+      "idSzam": "222334455"
+    },
+    {
+      "nev": "Nagy István",
+      "nem": "férfi",
+      "szul": "1978-11-03",
+      "anyjaNeve": "Kovács Éva",
+      "hazastars": "Nagy Viktória",
+      "gyerek": ["Nagy Levente", "Nagy Luca"],
+      "haziallatFajta": "tengerimalac",
+      "haziallatNeve": "Bogyó",
+      "idSzam": "333445566"
+    },
+    {
+      "nev": "Kiss Éva",
+      "nem": "nő",
+      "szul": "1982-08-20",
+      "anyjaNeve": "Nagy Katalin",
+      "hazastars": "Kiss László",
+      "gyerek": ["Kiss Roland", "Kiss Petra"],
+      "haziallatFajta": "nyúl",
+      "haziallatNeve": "Tapsi",
+      "idSzam": "444556677"
+    },
+    {
+      "nev": "Balogh Márton",
+      "nem": "férfi",
+      "szul": "1983-04-09",
+      "anyjaNeve": "Tóth Edit",
+      "hazastars": "Balogh Zsuzsanna",
+      "gyerek": ["Balogh Anna", "Balogh Gábor"],
+      "haziallatFajta": "cica",
+      "haziallatNeve": "Macska",
+      "idSzam": "900011233"
+    }
+  ],
+  "megtobbember": [
+    {
+      "nev": "Molnár Gábor",
+      "nem": "férfi",
+      "szul": "1995-04-25",
+      "anyjaNeve": "Tóth Éva",
+      "hazastars": "Molnár Zsuzsa",
+      "gyerek": ["Molnár Máté", "Molnár Eszter"],
+      "haziallatFajta": "papagáj",
+      "haziallatNeve": "Zöldi",
+      "idSzam": "555667788"
+    },
+    {
+      "nev": "Szabó Anna",
+      "nem": "nő",
+      "szul": "1988-12-12",
+      "anyjaNeve": "Kovács Erzsébet",
+      "hazastars": "Szabó Balázs",
+      "gyerek": ["Szabó Márk", "Szabó Kinga"],
+      "haziallatFajta": "cica",
+      "haziallatNeve": "Dundi",
+      "idSzam": "666778899"
+    },
+    {
+      "nev": "Varga János",
+      "nem": "férfi",
+      "szul": "1980-06-30",
+      "anyjaNeve": "Takács Zsuzsanna",
+      "hazastars": "Varga Éva",
+      "gyerek": ["Varga Péter", "Varga Zsófia"],
+      "haziallatFajta": "kutya",
+      "haziallatNeve": "Max",
+      "idSzam": "777889900"
+    },
+    {
+      "nev": "Horváth Zsófia",
+      "nem": "nő",
+      "szul": "1992-03-18",
+      "anyjaNeve": "Kiss Éva",
+      "hazastars": "Horváth Péter",
+      "gyerek": ["Horváth Balázs", "Horváth Petra"],
+      "haziallatFajta": "hörcsög",
+      "haziallatNeve": "Cuki",
+      "idSzam": "888990011"
+    },
+    {
+      "nev": "Papp Gergő",
+      "nem": "férfi",
+      "szul": "1987-09-08",
+      "anyjaNeve": "Nagy Ilona",
+      "hazastars": "Papp Petra",
+      "gyerek": ["Papp Máté", "Papp Zsuzsa"],
+      "haziallatFajta": "cica",
+      "haziallatNeve": "Siri",
+      "idSzam": "999001122"
+    },
+    {
+      "nev": "Balogh István",
+      "nem": "férfi",
+      "szul": "1975-01-05",
+      "anyjaNeve": "Tóth Edit",
+      "hazastars": "Balogh Zsuzsanna",
+      "gyerek": ["Balogh Márk", "Balogh Krisztina"],
+      "haziallatFajta": "kutya",
+      "haziallatNeve": "Bella",
+      "idSzam": "101112223"
+    },
+    {
+      "nev": "Kovács Zsuzsa",
+      "nem": "nő",
+      "szul": "1983-07-22",
+      "anyjaNeve": "Nagy Jánosné",
+      "hazastars": "Kovács István",
+      "gyerek": ["Kovács Gábor", "Kovács Orsolya"],
+      "haziallatFajta": "hörcsög",
+      "haziallatNeve": "Tücsi",
+      "idSzam": "111222334"
+    },
+    {
+      "nev": "Szűcs Gábor",
+      "nem": "férfi",
+      "szul": "1984-04-14",
+      "anyjaNeve": "Takács Erzsébet",
+      "hazastars": "Szűcs Kinga",
+      "gyerek": ["Szűcs Máté", "Szűcs Anna"],
+      "haziallatFajta": "nyúl",
+      "haziallatNeve": "Bogyó",
+      "idSzam": "122233445"
+    },
+    {
+      "nev": "Mészáros Petra",
+      "nem": "nő",
+      "szul": "1991-10-07",
+      "anyjaNeve": "Kovács Gáborné",
+      "hazastars": "Mészáros Gábor",
+      "gyerek": ["Mészáros Dávid", "Mészáros Eszter"],
+      "haziallatFajta": "cica",
+      "haziallatNeve": "Mogyi",
+      "idSzam": "233344556"
+    },
+    {
+      "nev": "Fekete Péter",
+      "nem": "férfi",
+      "szul": "1979-12-01",
+      "anyjaNeve": "Balogh Ilona",
+      "hazastars": "Fekete Katalin",
+      "gyerek": ["Fekete Márton", "Fekete Zsuzsanna"],
+      "haziallatFajta": "kutya",
+      "haziallatNeve": "Luna",
+      "idSzam": "344455667"
+    },
+    {
+      "nev": "Kis Anna",
+      "nem": "nő",
+      "szul": "1986-06-15",
+      "anyjaNeve": "Nagy Istvánné",
+      "hazastars": "Kis Péter",
+      "gyerek": ["Kis Bence", "Kis Dóra"],
+      "haziallatFajta": "madár",
+      "haziallatNeve": "Pici",
+      "idSzam": "455566778"
+    },
+    {
+      "nev": "Takács János",
+      "nem": "férfi",
+      "szul": "1981-03-28",
+      "anyjaNeve": "Kovács Ilona",
+      "hazastars": "Takács Zsuzsanna",
+      "gyerek": ["Takács Máté", "Takács Zsófia"],
+      "haziallatFajta": "hörcsög",
+      "haziallatNeve": "Mogyi",
+      "idSzam": "566677889"
+    },
+    {
+      "nev": "Majoros Kinga",
+      "nem": "nő",
+      "szul": "1994-08-10",
+      "anyjaNeve": "Nagy Gáborné",
+      "hazastars": "Majoros Gábor",
+      "gyerek": ["Majoros Péter", "Majoros Zsófia"],
+      "haziallatFajta": "cica",
+      "haziallatNeve": "Cirmi",
+      "idSzam": "677788900"
+    },
+    {
+      "nev": "Fehér Gábor",
+      "nem": "férfi",
+      "szul": "1977-05-17",
+      "anyjaNeve": "Kovács Edit",
+      "hazastars": "Fehér Zsuzsa",
+      "gyerek": ["Fehér Márk", "Fehér Anna"],
+      "haziallatFajta": "kutya",
+      "haziallatNeve": "Bobby",
+      "idSzam": "788900011"
+    },
+    {
+      "nev": "Kiss Andrea",
+      "nem": "nő",
+      "szul": "1989-11-23",
+      "anyjaNeve": "Nagy Jánosné",
+      "hazastars": "Kiss Gábor",
+      "gyerek": ["Kiss Máté", "Kiss Zsuzsanna"],
+      "haziallatFajta": "madár",
+      "haziallatNeve": "Sunny",
+      "idSzam": "899001122"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+td, th{
+    white-space: nowrap;
+}
+
+th, td{
+    width: 100%;
+    text-align: center;
+}
