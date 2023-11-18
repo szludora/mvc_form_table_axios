@@ -1,11 +1,11 @@
 export const descriptor = {
   nev: "Név",
   nem: "Nem",
-  szul: "Születési idő",
-  anyjaNeve: "Anyja neve",
-  hazastars: "Házastárs neve",
-  gyerek: "Gyerekek neve",
-  haziallatFajta: "Kiskedvenc fajta",
-  haziallatNeve: "Kiskedvenc neve",
+  szul: "Született",
+  anyjaNeve: "Anyja",
+  hazastars: "Házastárs",
+  gyerek: "Gyerekek",
+  haziallatFajta: "Kiskedvenc",
+  haziallatNeve: "Neve",
   idSzam: "Azonosító",
 };

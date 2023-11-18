@@ -14,8 +14,8 @@ class TableView {
     this.table = parent.find("table");
     this.thead = parent.find("thead");
     this.tbody = parent.find("tbody");
-    new TableHeadView(descriptor, this.thead)
-    this.createTbody(this.tbody)
+    new TableHeadView(descriptor, this.thead);
+    this.createTbody(this.tbody);
   }
 
   createTbody(parent) {
