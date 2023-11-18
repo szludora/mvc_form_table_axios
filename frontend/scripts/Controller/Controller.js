@@ -5,11 +5,11 @@ import FormView from "../View/Form/FormView.js";
 class Controller {
   constructor() {
     this.dataService = new DataService();
-    this.dataService.getData("./jsons/datas.json", this.show);
-    $(window).on("deleteRow"),
-      (e) => {
-        console.log(e.detail);
-      };
+    this.dataService.getData("api/flights", this.show);
+    // $(window).on("deleteRow"),
+    //   (e) => {
+    //     console.log(e.detail);
+    //   };
   }
   show(list) {
     new TableView(list, $(".datas"));

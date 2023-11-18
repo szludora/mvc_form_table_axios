@@ -4,12 +4,11 @@ class RowView {
     this.#obj = obj;
     this.index = index;
     parent.append(this.createRow());
-    this.deleteRow = this.parent.find(".deleteButton:last");
-    console.log(deleteRow);
-    this.deleteRow.on("click", () => {
-      console.log("Delete");
-      this.trigger("deleteRow");
-    });
+    // this.deleteButton = this.parent.find(".deleteButton:last");
+    // this.deleteButton.on("click", () => {
+    //   console.log("Delete");
+    //   this.trigger("deleteRow");
+    // });
   }
   createRow() {
     let txt = `<tr>`;
