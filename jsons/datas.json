@@ -1,54 +1,62 @@
 {
-  "irok": [
+  "writers": [
     {
       "id": "1",
-      "nev": "József Attila",
-      "szul": "1905"
+      "name": "Attila József",
+      "sex": "Male",
+      "birth": "1905"
     },
     {
       "id": "2",
-      "nev": "Lackfy János",
-      "szul": "1969"
+      "name": "János Lackfy",
+      "sex": "Male",
+      "birth": "1969"
     },
     {
       "id": "3",
-      "nev": "József Attila",
-      "szul": "1905"
+      "name": "Attila József",
+      "sex": "Male",
+      "birth": "1905"
     },
     {
       "id": "4",
-      "nev": "Lackfy János",
-      "szul": "1969"
+      "name": "János Lackfy",
+      "sex": "Male",
+      "birth": "1969"
     },
     {
       "id": "5",
-      "nev": "József Attila",
-      "szul": "1905"
+      "name": "Attila József",
+      "sex": "Male",
+      "birth": "1905"
     },
     {
       "id": "6",
-      "nev": "Lackfy János",
-      "szul": "1969"
+      "name": "János Lackfy",
+      "sex": "Male",
+      "birth": "1969"
     },
     {
       "id": "7",
-      "nev": "József Attila",
-      "szul": "1905"
+      "name": "Attila József",
+      "sex": "Male",
+      "birth": "1905"
     },
     {
       "id": "8",
-      "nev": "Lackfy János",
-      "szul": "1969"
+      "name": "János Lackfy",
+      "sex": "Male",
+      "birth": "1969"
     }
   ],
-  "konyvek": [
+  "books": [
     {
-      "cím": "Versek",
-      "iroAzon": "1"
+      "title": "Versek",
+      "writerId": "1"
     },
     {
-      "cim": "Anyám kakasa",
-      "iroAzon": "2"
+      "title": "Anyám kakasa",
+      "writerId": "2"
     }
   ]
 }

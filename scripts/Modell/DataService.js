@@ -6,7 +6,7 @@ class DataService {
       .get(endpoint)
       .then(function (response) {
         // handle success
-        callback(response.data.emberek)
+        callback(response.data.writers)
       })
       .catch(function (error) {
         // handle error

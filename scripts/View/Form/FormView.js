@@ -11,10 +11,12 @@ class FormView {
     this.parent.append(`<div class="d-flex align-items-center flex-column">`);
     for (const key in descriptor) {
       const element = descriptor[key];
-      this.parent.find(".d-flex")
+      if(element!="Id"){
+        this.parent.find(".d-flex")
         .append(`<div class="form-group mb-auto col-lg-3 col-md-6 col-sm-10">
         <label class="control-label p-2" for="${key}">${element}</label>
         <input type="text" class="form-control" id="${key}"></div>`);
+      }
     }
     this.parent
       .find(".d-flex")
